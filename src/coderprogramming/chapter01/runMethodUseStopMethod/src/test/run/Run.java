@@ -1,6 +1,7 @@
 package coderprogramming.chapter01.runMethodUseStopMethod.src.test.run;
 
-import testpackage.MyThread;
+
+import coderprogramming.chapter01.runMethodUseStopMethod.src.testpackage.MyThread;
 
 public class Run {
 	public static void main(String[] args) {

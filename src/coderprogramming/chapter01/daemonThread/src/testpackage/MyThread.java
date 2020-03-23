@@ -1,4 +1,4 @@
-package testpackage;
+package coderprogramming.chapter01.daemonThread.src.testpackage;
 
 public class MyThread extends Thread {
 	private int i = 0;
