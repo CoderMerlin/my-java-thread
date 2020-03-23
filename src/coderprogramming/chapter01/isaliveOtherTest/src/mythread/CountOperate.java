@@ -1,4 +1,4 @@
-package mythread;
+package coderprogramming.chapter01.isaliveOtherTest.src.mythread;
 
 public class CountOperate extends Thread {
 

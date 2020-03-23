@@ -1,7 +1,7 @@
 package coderprogramming.chapter01.sameNum.src.test;
 
 
-import coderprogramming.chapter01.randomThread.src.mythread.MyThread;
+import coderprogramming.chapter01.sameNum.src.extthread.MyThread;
 
 public class Run {
 

@@ -1,6 +1,7 @@
-package test;
+package coderprogramming.chapter01.isaliveOtherTest.src.test;
 
-import mythread.CountOperate;
+
+import coderprogramming.chapter01.isaliveOtherTest.src.mythread.CountOperate;
 
 public class Run {
 
