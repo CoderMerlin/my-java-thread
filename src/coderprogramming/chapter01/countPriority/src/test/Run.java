@@ -17,7 +17,7 @@ public class Run {
 			b.setPriority(Thread.NORM_PRIORITY + 3);
 			b.start();
 
-			Thread.sleep(5000);
+			Thread.sleep(2000);
 			a.stop();
 			b.stop();
 
